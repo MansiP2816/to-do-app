@@ -1,0 +1,13 @@
+# Laravel
+/backend/vendor
+/backend/storage/*.key
+/backend/.env
+
+# Node
+/frontend/node_modules
+/frontend/dist
+
+# System
+.DS_Store
+.idea
+.vscode
